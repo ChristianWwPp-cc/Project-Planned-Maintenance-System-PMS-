@@ -1,4 +1,4 @@
-# ⚓ Dashboard PMS Kapal Sederhana
+# ⚓ Dashboard PMS Kapal 
 
 ##  Deskripsi Proyek
 Dashboard web statis yang mensimulasikan **Sistem Manajemen Pemeliharaan Terencana (PMS)** untuk peralatan kapal. Proyek ini bertujuan memberikan solusi digital untuk **efisiensi kerja** dengan memvisualisasikan, memfilter, dan memperbarui status tugas pemeliharaan harian, mingguan, dan bulanan.
@@ -34,17 +34,14 @@ Proyek ini memenuhi kriteria pelatihan melalui praktik koding yang optimal:
 2.  **Buka Website:** Buka file **`index.html`** menggunakan Live Server (disarankan) atau langsung di *browser* Anda.
 3.  **Uji Coba:** Ubah status tugas menggunakan tombol **Selesaikan** atau **Mulai** dan perhatikan bahwa status tetap tersimpan.
 
-
-
-
-
+---
 
 ## Kontribusi Tim
 
 | Nama Siswa | Peran Utama |
 | :--- | :--- |
-| **[Nama Christian Wahyu Prakoso]** | Web Design (CSS Estetika & Responsif), Finalisasi HTML. |
-| **[Nama Bilqi Alviansyah]** | Logika Data (Python `generate_data.py`), Logika Fungsional JavaScript (Local Storage & Filter). |
+| **Nama Christian Wahyu Prakoso** | Web Design (CSS Estetika & Responsif), Finalisasi HTML. |
+| **Nama Bilqi Alviansyah** | Logika Data (Python `generate_data.py`), Logika Fungsional JavaScript (Local Storage & Filter). |
 
 ---
 
