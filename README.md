@@ -40,8 +40,8 @@ Proyek ini memenuhi kriteria pelatihan melalui praktik koding yang optimal:
 
 | Nama Siswa | Peran Utama |
 | :--- | :--- |
-| **Nama Christian Wahyu Prakoso** | Web Design (CSS Estetika & Responsif), Finalisasi HTML. |
-| **Nama Bilqi Alviansyah** | Logika Data (Python `generate_data.py`), Logika Fungsional JavaScript (Local Storage & Filter). |
+| **Christian Wahyu Prakoso** | Web Design (CSS Estetika & Responsif), Finalisasi HTML. |
+| **Bilqi Alviansyah** | Logika Data (Python `generate_data.py`), Logika Fungsional JavaScript (Local Storage & Filter). |
 
 ---
 
